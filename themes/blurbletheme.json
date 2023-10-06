@@ -1,7 +1,6 @@
-
 {
   "name": "BunnyFndr Blurble Theme",
-  "description": "Made as per BunnyFndr's request; Based on Purpdark V3, by @vve1",
+  "description": "Based on Purpdark V3, by @vve1",
   "authors": [
     {
       "name": "@manofhonorgsyt"
@@ -68,7 +67,10 @@
   "spec": 2,
   "background": {
     "blur": 0,
-    "url": "https://raw.githubusercontent.com/GarryStraitYT/Vendetta-stuff/main/themes/images/bunnyeon.jpg",
+    "url": "https://raw.githubusercontent.com/GarryStraitYT/Vendetta-stuff/main/themes/images/bunnyeon.jpg", // Replaced with the new image link
     "alpha": 0.9,
+    "color": "#0078D7", // Background color remains the same
+    "position": "center",
+    "size": "200px 200px"
   }
 }
