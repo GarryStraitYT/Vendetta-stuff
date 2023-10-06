@@ -7,8 +7,8 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#9472D5"],
-    "HEADER_SECONDARY": ["#9472D5"],
+    "HEADER_PRIMARY": ["#9900cc"],
+    "HEADER_SECONDARY": ["#9900cc"],
     "TEXT_NORMAL": ["#F3E8FF"],
     "TEXT_MUTED": ["#5E5E5E"],
     "TEXT_LINK": ["#C48EEE"],
