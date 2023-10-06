@@ -67,9 +67,9 @@
   "spec": 2,
   "background": {
     "blur": 0,
-    "url": "https://raw.githubusercontent.com/GarryStraitYT/Vendetta-stuff/main/themes/images/bunnyeon.jpg",
-    "alpha": 0.9,
-    "position": "center",
-    "size": "200px 200px"
+    // "url": "https://raw.githubusercontent.com/GarryStraitYT/Vendetta-stuff/main/themes/images/bunnyeon.jpg",
+   //  "alpha": 0.9,
+    // "position": "center",
+   // "size": "200px 200px"
   }
 }
