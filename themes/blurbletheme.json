@@ -67,9 +67,8 @@
   "spec": 2,
   "background": {
     "blur": 0,
-    "url": "https://raw.githubusercontent.com/GarryStraitYT/Vendetta-stuff/main/themes/images/bunnyeon.jpg", // Replaced with the new image link
+    "url": "https://raw.githubusercontent.com/GarryStraitYT/Vendetta-stuff/main/themes/images/bunnyeon.jpg",
     "alpha": 0.9,
-    "color": "#0078D7", // Background color remains the same
     "position": "center",
     "size": "200px 200px"
   }
