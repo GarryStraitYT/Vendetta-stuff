@@ -1,3 +1,4 @@
+
 {
   "name": "BunnyFndr Blurble Theme",
   "description": "Based on Purpdark V3, by @vve1",
@@ -25,7 +26,6 @@
     "BACKGROUND_MOBILE_PRIMARY": ["#222222"],
     "BACKGROUND_MOBILE_SECONDARY": ["#222222"],
     "BACKGROUND_NESTED_FLOATING": ["#0A0A0A"],
-
     "BACKGROUND_MESSAGE_HOVER": ["#0A0A0A"],
     "BACKGROUND_MODIFIER_HOVER": ["#0A0A0A"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#67427D"],
@@ -56,7 +56,6 @@
     "PRIMARY_660": "#2F2F2F",
     "PRIMARY_700": "#0A0A0A",
     "PRIMARY_800": "#0A0A0A",
-
     "BRAND_260": "#866195",
     "BRAND_360": "#BF96D0",
     "BRAND_500": "#866195",
@@ -71,6 +70,7 @@
     "blur": 0,
     "url": "https://raw.githubusercontent.com/GSYT-Productions/gsyt-productions.github.io/main/BunnyPad.png",
     "alpha": 0.9,
-    "color": "#0A0A0A"
+    "position": "center",
+    "size": "200px 200px"
   }
 }
