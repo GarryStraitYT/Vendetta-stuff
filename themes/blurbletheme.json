@@ -1,3 +1,4 @@
+
 {
   "name": "BunnyFndr Blurble Theme",
   "description": "Based on Purpdark V3, by @vve1",
@@ -67,9 +68,9 @@
   "spec": 2,
   "background": {
     "blur": 0,
-    // "url": "https://raw.githubusercontent.com/GarryStraitYT/Vendetta-stuff/main/themes/images/bunnyeon.jpg",
-   //  "alpha": 0.9,
-    // "position": "center",
-   // "size": "200px 200px"
+    "url": "https://raw.githubusercontent.com/GSYT-Productions/gsyt-productions.github.io/main/BunnyPad.png",
+    "alpha": 0.9,
+    "position": "center",
+    "size": "200px 200px"
   }
 }
