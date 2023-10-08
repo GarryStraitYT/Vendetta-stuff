@@ -70,7 +70,6 @@
     "blur": 0,
     "url": "https://raw.githubusercontent.com/GarryStraitYT/Images-n-things/main/Untitled1_20231007235413.png", // Replaced with the new image link
     "alpha": 0.9,
-    "color": "#0078D7", // Background color remains the same
     "position": "center",
     "size": "200px 200px"
   }
