@@ -1,16 +1,16 @@
 
 {
-  "name": "BunnyFndr's Blurble Theme",
+  "name": "BunnyFndr Blurble Theme",
   "description": "Based on Purpdark V3, by @vve1",
   "authors": [
     {
-      "name": "The BunnyFndr Protection Group"
+      "name": "BunnyFndr's Personal Task Force"
     }
   ],
   "semanticColors": {
     "HEADER_PRIMARY": ["#9900cc"],
     "HEADER_SECONDARY": ["#9900cc"],
-    "TEXT_NORMAL": ["#8C49F0"],
+    "TEXT_NORMAL": ["#F3E8FF"],
     "TEXT_MUTED": ["#5E5E5E"],
     "TEXT_LINK": ["#C48EEE"],
     "INTERACTIVE_NORMAL": ["#B599C5"],
@@ -67,9 +67,10 @@
   },
   "spec": 2,
   "background": {
-    "blur": 5,
-    "url": "https://raw.githubusercontent.com/GarryStraitYT/Images-n-things/main/Untitled39_20231006011346.png",
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/GarryStraitYT/Vendetta-stuff/main/themes/images/bunnyeon.jpg", // Replaced with the new image link
     "alpha": 0.9,
+    "color": "#0078D7", // Background color remains the same
     "position": "center",
     "size": "200px 200px"
   }
